@@ -6,7 +6,7 @@ Arduino project for E.E.T.N°2043 "San José" 2022
 
 ## How to use it?
 This project has 3 different versions
-- #### [Bluetooth and WiFi mode (not recommended without SSL certification)](https://github.com/avryux/Vlock/blob/main/ESP32/ESP32_WiFi_BL.ino)
+- #### [Bluetooth and WiFi mode (ESP32 needs to support BL/WiFi at the same time)](https://github.com/avryux/Vlock/blob/main/ESP32/ESP32_WiFi_BL.ino)
 - #### [WiFi mode](https://github.com/avryux/Vlock/blob/main/ESP32/ESP_WiFi.ino)
 ```c++
   #define WIFI_SSID ""
