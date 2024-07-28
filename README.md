@@ -34,7 +34,7 @@ This project has 3 different versions
 ## Authors
 
 - [Verdondoni, Máximo](https://ar.linkedin.com/in/máximo-verdondoni-846821214)
-- Leoni, Juan Martín
+- [Leoni, Juan Martín](https://github.com/JuanMLeoni)
 
 
 ## 🛠 Skills
